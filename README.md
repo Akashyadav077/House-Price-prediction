@@ -25,61 +25,7 @@ To rapidly acquaint with the provided dataset and master the critical first step
 - Cleaning and resolving data quality issues
 - Preparing a final, analysis-ready dataset
 
----
 
-## 📁 Repository Structure
-
-```
-House_Price_Prediction/
-│
-├── 📂 data/
-│   ├── raw_dataset.csv          # Original, unmodified dataset
-│   └── cleaned_dataset.csv      # Final analysis-ready dataset
-│
-├── 📂 notebooks/
-│   └── data_wrangling.ipynb     # Jupyter Notebook with full EDA & cleaning
-│
-├── 📂 scripts/
-│   └── cleaning_script.py       # Standalone Python cleaning script
-│
-├── 📂 docs/
-│   └── data_dictionary.md       # Data dictionary documenting all variables
-│
-└── README.md                    # Project overview (this file)
-```
-
-
-## 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|---|---|
-| Python 3.10+ | Core programming language |
-| Pandas | Data manipulation & cleaning |
-| NumPy | Numerical operations |
-| Matplotlib / Seaborn | Data visualization & outlier detection |
-| Jupyter Notebook | Interactive exploration |
-| GitHub | Version control & deliverable submission |
-
----
-
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/House_Price_Prediction.git
-cd House_Price_Prediction
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn jupyter
-
-# 3. Run the cleaning script
-python scripts/cleaning_script.py
-
-# 4. Or open the notebook
-jupyter notebook notebooks/data_wrangling.ipynb
-```
-
----
 
 ## 📊 Key Findings
 
@@ -93,10 +39,9 @@ jupyter notebook notebooks/data_wrangling.ipynb
 
 ## 👤 Author
 
-**[Vivek Kumar Tiwari]**
+**[Akash Kumar]**
 Data Analytics Intern — ApexPlanet Software Pvt. Ltd.
-📧 vkt.vivek007@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/vkt16/) | [GitHub](https://github.com/Virvivek007/)
+📧 akashk39901@gmail.com
 
 ---
 
